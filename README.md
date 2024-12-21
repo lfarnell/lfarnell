@@ -1,39 +1,39 @@
 # <p align="center">Hi :wave:, I'm Luke Farnell</p>
 
-### <p align="center">A passionate SRE from Toronto, :maple_leaf:</p>
+### <p align="center">A passionate SRE from :four: :one: :six:, :maple_leaf:</p>
 
-- Currently :man_technologist: at [RLDatix]() as a :cloud: Engineer
+- Currently :man_technologist: at [RLDatix]() as a Principal :cloud: Engineer
 - :seedling: learn more of programming languages
 - :email: lfarnell@outlook.com
 
 **Connected with me:**
 
-<a href="https://ca.linkedin.com/in/lukefarnell"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin"></a> <a href="https://twitter.com/luke_farnell?lang=en"><img height="32" width="32" src="https://cdn.simpleicons.org/x"></a><a href="mailto:lfarnell@outlook.com"><img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoutlook"></a>
+<a href="https://ca.linkedin.com/in/lukefarnell"><img height="32" width="32" src="https://api.iconify.design/devicon:linkedin.svg"></a>
 
 **Known Tools and Languages:**
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/terraform" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jenkins" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/packer" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nginx" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/grafana" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/devicon:digitalocean.svg" title="digitalocean" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:terraform-icon.svg" title="terraform" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/simple-icons:gnubash.svg" title="bash" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:kubernetes.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/devicon:cloudflare.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/devicon:jenkins.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:docker-icon.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:packer.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:nginx.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:ubuntu.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/skill-icons:aws-dark.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:grafana.svg" /><nb />
 
 **Tools and Languages to learn better:**
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/go" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vault" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/consul" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/prometheus" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/trivy" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/opentelemetry" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/probot" /><nb />
-<img height="32" width="32" src="https://cdn.simpleicons.org/scylladb" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:go.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/devicon:vault.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/devicon:consul.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/devicon:prometheus.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/simple-icons:trivy.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:typescript-icon.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:javascript.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/logos:opentelemetry-icon.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/simple-icons:probot.svg" /><nb />
+<img height="32" width="32" src="https://api.iconify.design/simple-icons:scylladb.svg" /><nb />
